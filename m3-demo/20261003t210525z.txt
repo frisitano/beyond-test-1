@@ -1,0 +1,13 @@
+elan: elan 4.2.4
+python3: Python 3.12.14
+uv: uv 0.12.17 (aarch64-unknown-linux-gnu)
+node: v24.21.0
+ruby: ruby 3.3.10 (2025-10-23 revision 343ea05002) [aarch64-linux]
+clang: clang version 21.1.8
+cmake: cmake version 4.4.3
+protoc: libprotoc 36.2
+go version go1.26.8 linux/arm64
+devenv.yaml
+eth-specs-test
+praxis-test
+zkvm-test
